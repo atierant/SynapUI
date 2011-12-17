@@ -1,6 +1,7 @@
 /**
  * Placeholder plugin for jQuery
  *
+ * @author    Charles-Edouard Coste <cc@synap.fr>
  * @copyright 2011 Synap System (http://synap.fr)
  * @license   http://www.gnu.org/copyleft/gpl.html GNU General Public License
  */
