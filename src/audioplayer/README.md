@@ -4,7 +4,7 @@ Nanodio
 Description
 -----------
 
-Nanodio is the smallest audio player ever coded!
+Nanodio is the smallest audio player ever coded! (only 1.19KB)
 It's simple, accessible and can be used with strict xHtml pages.
 
 How to use it
@@ -47,7 +47,7 @@ Here is an example:
     </html>
 
 So here is the deal:
-  - If the browser is able to read the file by itself, just one click on the link will play the file.
+  - If the browser is able to read the file by itself, just one click on the link will play the file. An other click will stop it.
   - If the browser can't read it by itself but has a plugin to do that... it will probably launch it.
   - If the browser can't read the file, it will download it. So you can read it in your favorite sound player
 
