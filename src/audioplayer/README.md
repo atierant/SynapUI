@@ -4,7 +4,7 @@ Nanodio
 Description
 -----------
 
-Nanodio is the smallest audio player ever coded! (only 1.19KB)
+Nanodio is the smallest audio player ever coded! (less than 2KB)
 
 It's simple, accessible and can be used with strict xHtml pages.
 
